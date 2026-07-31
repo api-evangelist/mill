@@ -1,0 +1,20 @@
+# Mill
+
+> Mill makes a kitchen bin that dries and grinds food scraps into dry, nutrient-rich Food Grounds — keeping food waste out of landfills and the methane it produces out of the atmosphere. Customers fill the bin through the week, and Mill helps the grounds get reused rather than thrown away.
+
+This file is a curated guide for AI agents and assistants. For a complete, machine-readable list of all pages, see the sitemap at https://www.mill.com/sitemap.xml.
+
+## Key pages
+
+- [Home](https://www.mill.com/): Overview of Mill, the food recycler bin, and how the membership works.
+- [Food Recycler](https://www.mill.com/food-recycler): The Mill food recycler — what it is, how it works, and what's included.
+- [Configure your Food Recycler](https://www.mill.com/configure/food-recycler): Choose a plan and configure an order.
+
+## Learn
+
+- [Blog](https://www.mill.com/blog): Articles on food waste, sustainability, and getting the most out of Mill.
+- [News](https://www.mill.com/news): Company news and press.
+
+## Legal
+
+- [Legal](https://www.mill.com/legal): Terms, privacy policy, and other legal information.
